@@ -1,16 +1,17 @@
 # README
 
-**This is a take-home test I was given by a company which wanted to test my skills.**
-
-This was a take-home test I was given by a company which wanted to test my skills.
+**This is a take-home test I was given by a company called ListenField, which wanted to evaluate me.**
 
 Here was the message:
 
     Hello Yasuhiro,
 
+    Thank you for taking time to have the interview with Rassarin and Honda!
+
     I would like to give you a small exercise just to see how you are architecting things. It should be fairly easy and not take too long.
     Ideally I would prefer if you can make this in Ruby on Rails (in API Mode). But I'm also okay with node / typescript if you prefer.
     The project definition is voluntarily abstract, feel free to ask questions if there is something unclear.
+
 
     Project:
     Build an Ice Cream Truck!
@@ -29,7 +30,9 @@ Here was the message:
     You'll make a simple test, so I can confirm it works easily.
     Try to build it so it's  scalable, it should be able to support the future, so when the ice cream truck gets famous they can open a franchise and have many ice cream trucks!
 
-    Thanks
+
+    Thanks,
+    David
 
 So, I went on to build a Rails API. And this was the outcome.
 
